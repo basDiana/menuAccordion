@@ -1,1 +1,0 @@
-## Implementing an accordion menu in pure CSS menuAccordion
